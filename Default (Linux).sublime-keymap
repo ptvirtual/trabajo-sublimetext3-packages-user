@@ -1,0 +1,6 @@
+[
+    {"keys": ["ctrl+shift+c+s"], "command": "coffee_compile"},
+    {"keys": ["ctrl+shift+s", "ctrl+shift+a"], "command": "prompt_save_as"},
+    { "keys": ["ctrl+i","ctrl+o"], "command": "toggle_comment", "args": { "block": false } },
+    { "keys": ["ctrl+shift+v"], "command": "paste_and_indent" }
+]
